@@ -27,7 +27,7 @@ from itools.gettext import register_domain
 
 # Import from ikaaro
 from ikaaro.skins import register_skin
-from ikaaro.user import User
+from ikaaro.users import User
 
 import about
 import bar
